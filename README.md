@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Arthur Grillo
 <!---
+- 👋 Hi, I’m Arthur Grillo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,4 +9,4 @@
 Grillo-0/Grillo-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grillo-0&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grillo-0&theme=dracula](https://github.com/anuraghazra/github-readme-stats)
