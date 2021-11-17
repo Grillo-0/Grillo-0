@@ -7,8 +7,8 @@
 
 - 🚀 I'm currently part of **[Zenith Aerospace]**
 - 🌱 I’m currently learning more about **Linux**
-- 🤝 Connect with me on **[LinkedIn]**
 - 💬 I like to talk about **interesting project ideias**
+- 🤝 Connect with me on **[LinkedIn]**
 
 <br/>
 
