@@ -11,6 +11,7 @@
 - 🤝 Connect with me on **[LinkedIn]**
 
 <br/>
+<br/>
 
 <h2 align="left">Favorite Tech</h2>
 
