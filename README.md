@@ -3,14 +3,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true&include_all_commits=true" alt="Grillo-0"
+  srcset="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark" alt="Grillo-0"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true&include_all_commits=true" alt="Grillo-0"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true&include_all_commits=true" alt="Grillo-0""  align="right" />
+  srcset="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Grillo-0"
+  media="(prefers-color-scheme: light)"
+/>[[](url)](url)
+<img src="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Grillo-0""  align="right" />
 </picture>
 
 
