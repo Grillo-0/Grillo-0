@@ -3,7 +3,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark" alt="Grillo-0"
+  srcset="https://github-readme-stats.vercel.app/api?username=Grillo-0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&" alt="Grillo-0"
   media="(prefers-color-scheme: dark)"
 />
 <source
