@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Arthur Grillo 🦗
 
-Currently appling for [GSoC][gsoc]
+**[Google Summer of Code][gsoc]** contributor at **[X.Org][x.org]**
 
 ## Favorite Tech
 
@@ -12,3 +12,4 @@ Currently appling for [GSoC][gsoc]
 - **Rust:** starting to play with it.
 
 [gsoc]: https://summerofcode.withgoogle.com/
+[x.org]: https://x.org/wiki/
